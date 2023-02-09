@@ -5,6 +5,7 @@
 # Currently Working on 👷‍♀️
 - Password Manager V 1.00
 - Open AI Discord Selfbot
+- CommunityAPI \w\ Skezza
 # Contact Me 🔔
 - Discord Joonyy#2928 
 # My Interests ⭐
