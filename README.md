@@ -13,7 +13,6 @@ Please contact me through discord for inquiries.
 # Currently Working on 👷‍♀️
 - 🔭 I’m currently working on [Community API](https://github.com/UP929312/CommunityAPI)
 - 🔭I'm looking forward to develop Open AI GPT-3 Selfbot,
-- 🔭Developing @Entitled Kingdoms
 # My Interests ⭐
 - Programming [Python, Javascript] Discord.JS V13
 - Games [Valorant, Minecraft]
