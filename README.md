@@ -14,8 +14,8 @@ Please contact me through discord for inquiries.
 - 🔭 I’m currently working on A private project, mainly for fortnite panels.
 - 🔭I'm looking forward to develop Open AI GPT-3 Selfbot,
 # My Interests ⭐
-- Programming [Python, Javascript] Discord.JS V13
-- Games [Valorant, Minecraft]
+- Programming [Python, Javascript] Discord.JS V14
+- Games [Valorant, Minecraft, FN]
 - Movies & Series [Breaking Bad]
 <p align="center">
   <img width="192" height="192" src="https://user-images.githubusercontent.com/79518089/141609256-ddcafafa-dca0-4cc3-b203-008e441ae2a2.gif">
