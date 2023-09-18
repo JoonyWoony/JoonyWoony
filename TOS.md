@@ -5,9 +5,9 @@ You are responsible for the content uploaded or that communicates with the Bot c
 It is pretty much necessary to store these details for the creation of your bots.
 
 We collect the following details:
-Your Application Seller Key - for whatever authentication you will use.
-Your discord Username and discord ID - For delivery & owner 
-Your customer's UserID and potential balance within my database - this is neccessary to cache all license keys and potential reseller balance.
+- Your Application Seller Key - for whatever authentication you will use.
+- Your discord Username and discord ID - For delivery & owner 
+- Your customer's UserID and potential balance within my database - this is neccessary to cache all license keys and potential reseller balance.
 
 ### SOURCE
 We will not provide source for the bot created unless I state otherwise. 
