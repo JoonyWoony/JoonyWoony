@@ -3,7 +3,6 @@
 - This embed updates **Automatically.**
 
 ```
-Magik (Loader)
 Magma (Emoji Bug)
 Cicada (New Command)
 Aether (Perm)
