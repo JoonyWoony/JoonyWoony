@@ -14,3 +14,10 @@ We will not provide source for the bot created unless I state otherwise.
 
 ### COPYRIGHT 
 Joony Services is not a Open Source service, hence we do not provide source for the bots created unless stated otherwise by me. You are NOT allowed to sell the source given by me, only for the use of self hosting for your own bot.
+
+# What you will receive
+
+You will receive A discord bot that either has your desired Utilities for Ticket and Moderation, or a Keyauth Integreted Discord bot which allows you to use the commands above. You will also be able to (as a client) request for small or extra features for your bot without charge.
+
+# SUBSCRIPTION
+Soon, we may turn into subscriptions rather than a one time payment due to more client usage.
