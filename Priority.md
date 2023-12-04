@@ -6,6 +6,7 @@
 Magik (Loader)
 Magma (Emoji Bug)
 Cicada (New Command)
+Aether (Perm)
 Athena (Full new bot)
 Hix (Auth Bot)
 Loadmer (New bot)
